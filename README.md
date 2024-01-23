@@ -9,13 +9,13 @@ To initiate the project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/course-selling-backend.git
+   git clone https://github.com/your-username/course-selling-app.git
    ```
 
 2. Install the necessary dependencies:
 
    ```bash
-   cd course-selling-backend
+   cd course-selling-app
    npm install
    ```
 
@@ -32,7 +32,7 @@ To initiate the project, follow these steps:
 4. Launch the application:
 
    ```bash
-   npm start
+   node index.js
    ```
 
    The server will run on the specified port (default is 3000).
